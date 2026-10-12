@@ -1,0 +1,34 @@
+{
+  "model": "Ridge v7 (v6 + RaceProgress)",
+  "alpha": 1.0,
+  "target": "DeltaToQuali (lap time minus driver's best qualifying lap, seconds)",
+  "input_columns": [
+    "Compound",
+    "Circuit",
+    "TyreAge",
+    "LapsRemaining",
+    "TrackTemp",
+    "AirTemp",
+    "RaceProgress"
+  ],
+  "trained_on": "2022\u20132024 clean dry laps",
+  "train_laps": 48391,
+  "validation_2024": {
+    "MAE": 0.809,
+    "RMSE": 1.129,
+    "Bias": -0.293,
+    "StintTotalMAE": 13.171
+  },
+  "test_2025": {
+    "MAE": 1.1,
+    "RMSE": 1.466,
+    "Bias": 0.375,
+    "StintTotalMAE": 19.891
+  },
+  "test_2025_B1_MAE": 1.306,
+  "versions": {
+    "scikit-learn": "1.9.1",
+    "pandas": "2.3.3",
+    "numpy": "2.5.3"
+  }
+}
