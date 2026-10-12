@@ -182,7 +182,8 @@ if plan_is_simulatable(plan, ctx["RaceLaps"]):
     clean_rec = sim.plan_time(grid, ctx, rec_plan, 3)
 
     a, b, c = st.columns(3)
-    a.metric(f"{drv['Driver']}'s strategy", describe_plan(plan))
+    a.markdown(f"**{drv['Driver']}'s strategy**")
+    a.markdown(f"#### {describe_plan(plan)}")
     b.metric("vs recommendation — average with safety cars", f"{exp_actual - exp_rec:+.1f} s")
     c.metric("vs recommendation — if no safety car", f"{clean_actual - clean_rec:+.1f} s")
     st.caption("Positive = the driver's strategy is predicted to be slower. The recommendation is chosen on the "
