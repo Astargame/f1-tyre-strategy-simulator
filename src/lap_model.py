@@ -16,16 +16,17 @@ class TwoPartLapModel:
     Part 1 - level: the median DeltaToQuali at this circuit in the training seasons
              (the all-circuit median for a circuit never seen before).
     Part 2 - shape: a Ridge model of how each lap differs from that driver's typical lap
-             in the same race: compound pace, compound and circuit wear rates, fuel, temperature.
-             It is trained on (lap - that driver's median lap in that race), so it learns only
-             from same-driver, same-race comparisons, where fuel load, track and car pace cancel.
+             in the same race: compound pace, compound wear rates, optional circuit wear
+             rates, fuel and temperature. It is trained on (lap - that driver's median lap
+             in that race), so it learns only from same-driver, same-race comparisons.
 
     The driver's race median is used only to build the training target. Predictions use
     the circuit level from past seasons, never information from the race being predicted.
     """
 
-    def __init__(self, alpha=1.0):
+    def __init__(self, alpha=1.0, circuit_slopes=True):
         self.alpha = alpha
+        self.circuit_slopes = circuit_slopes
 
     def _make_shape_model(self):
         prep = ColumnTransformer([
@@ -33,7 +34,7 @@ class TwoPartLapModel:
             ("num", "passthrough", make_column_selector(dtype_include="number")),
         ])
         return Pipeline([
-            ("terms", TyreTerms(compound_slopes=True, squares=False, circuit_slopes=True)),
+            ("terms", TyreTerms(compound_slopes=True, squares=False, circuit_slopes=self.circuit_slopes)),
             ("prep", prep),
             ("model", Ridge(alpha=self.alpha)),
         ])
