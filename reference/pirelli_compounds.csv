@@ -1,0 +1,93 @@
+Year,Round,EventName,Circuit,Needed,HardC,MediumC,SoftC,Source
+2022,1,Bahrain Grand Prix,Sakhir,True,1,2,3,https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2022-bahrain-grand-prix.5nQGRrYUMcq8Y2BQeHBTeK
+2022,2,Saudi Arabian Grand Prix,Jeddah,True,2,3,4,https://www.formula1.com/en/latest/article.what-tyres-will-the-teams-and-drivers-have-for-the-2022-united-states-grand.4BgVW4AMaHNwmv0qCaK0rx.html
+2022,3,Australian Grand Prix,Melbourne,True,2,3,5,https://www.formula1.com/en/latest/article.what-tyres-will-the-teams-and-drivers-have-for-the-2022-australian-grand.5JMcZHb0xdllgZriDhNh2z.html
+2022,4,Emilia Romagna Grand Prix,Imola,False,2,3,4,https://www.formula1.com/en/latest/article.what-tyres-will-the-teams-and-drivers-have-for-the-2022-united-states-grand.4BgVW4AMaHNwmv0qCaK0rx.html
+2022,5,Miami Grand Prix,Miami,True,2,3,4,https://www.formula1.com/en/latest/article.what-tyres-will-the-teams-and-drivers-have-for-the-2022-united-states-grand.4BgVW4AMaHNwmv0qCaK0rx.html
+2022,6,Spanish Grand Prix,Barcelona,True,1,2,3,https://f1technical.net/news/23803
+2022,7,Monaco Grand Prix,Monaco,False,3,4,5,https://www.motorbox.com/auto/sport/f1/news/f1-2022-pirelli-gomme-gp-azerbaijan-canada-gran-bretagna
+2022,8,Azerbaijan Grand Prix,Baku,True,3,4,5,https://www.motorbox.com/auto/sport/f1/news/f1-2022-pirelli-gomme-gp-azerbaijan-canada-gran-bretagna
+2022,9,Canadian Grand Prix,Montréal,True,3,4,5,https://www.motorbox.com/auto/sport/f1/news/f1-2022-pirelli-gomme-gp-azerbaijan-canada-gran-bretagna
+2022,10,British Grand Prix,Silverstone,True,1,2,3,https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2022-british-grand-prix.5NSQn3DvP84qUkQIqltoxd
+2022,11,Austrian Grand Prix,Spielberg,True,3,4,5,https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2022-austrian-grand-prix.ewOLe0OWjT6zjVKJKLyps
+2022,12,French Grand Prix,Le Castellet,True,2,3,4,https://www.formula1.com/en/latest/article.what-tyres-will-the-teams-and-drivers-have-for-the-2022-united-states-grand.4BgVW4AMaHNwmv0qCaK0rx.html
+2022,13,Hungarian Grand Prix,Budapest,True,2,3,4,https://www.formula1.com/en/latest/article.what-tyres-will-the-teams-and-drivers-have-for-the-2022-united-states-grand.4BgVW4AMaHNwmv0qCaK0rx.html
+2022,14,Belgian Grand Prix,Spa-Francorchamps,True,2,3,4,https://f1technical.net/news/23803
+2022,15,Dutch Grand Prix,Zandvoort,True,1,2,3,https://f1technical.net/news/23803
+2022,16,Italian Grand Prix,Monza,True,2,3,4,https://f1technical.net/news/23803
+2022,17,Singapore Grand Prix,Marina Bay,False,3,4,5,https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2022-abu-dhabi-grand-prix.6JdtRjYzOPcs0ztbRgQ6h
+2022,18,Japanese Grand Prix,Suzuka,False,,,,
+2022,19,United States Grand Prix,Austin,True,2,3,4,https://www.formula1.com/en/latest/article.what-tyres-will-the-teams-and-drivers-have-for-the-2022-united-states-grand.4BgVW4AMaHNwmv0qCaK0rx.html
+2022,20,Mexico City Grand Prix,Mexico City,True,2,3,4,https://www.formula1.com/en/latest/article.what-tyres-will-the-teams-and-drivers-have-for-the-2022-united-states-grand.4BgVW4AMaHNwmv0qCaK0rx.html
+2022,21,São Paulo Grand Prix,São Paulo,True,2,3,4,https://www.f1technical.net/news/24217
+2022,22,Abu Dhabi Grand Prix,Yas Island,True,3,4,5,https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2022-abu-dhabi-grand-prix.6JdtRjYzOPcs0ztbRgQ6h
+2023,1,Bahrain Grand Prix,Sakhir,True,1,2,3,https://www.formula1.com/en/latest/article.pirelli-confirm-tyre-choices-for-first-three-f1-races-of-2023-as-new.1xlpcTVaLqw0NeM3aYoyCt.html
+2023,2,Saudi Arabian Grand Prix,Jeddah,True,2,3,4,https://www.formula1.com/en/latest/article.pirelli-confirm-tyre-choices-for-first-three-f1-races-of-2023-as-new.1xlpcTVaLqw0NeM3aYoyCt.html
+2023,3,Australian Grand Prix,Melbourne,True,2,3,4,https://www.formula1.com/en/latest/article.pirelli-confirm-tyre-choices-for-first-three-f1-races-of-2023-as-new.1xlpcTVaLqw0NeM3aYoyCt.html
+2023,4,Azerbaijan Grand Prix,Baku,True,3,4,5,https://www.gpfans.com/nl/f1-nieuws/1008416/pirelli-haalt-een-compound-uit-roulatie-voor-formule-1-seizoen-2024/
+2023,5,Miami Grand Prix,Miami,True,2,3,4,https://www.gpfans.com/nl/f1-nieuws/1008416/pirelli-haalt-een-compound-uit-roulatie-voor-formule-1-seizoen-2024/
+2023,6,Monaco Grand Prix,Monaco,False,3,4,5,https://www.gpfans.com/nl/f1-nieuws/1008416/pirelli-haalt-een-compound-uit-roulatie-voor-formule-1-seizoen-2024/
+2023,7,Spanish Grand Prix,Barcelona,True,1,2,3,https://www.gpfans.com/nl/f1-nieuws/1015671/pirelli-maakt-bandencompounds-voor-japan-china-en-miami-bekend/
+2023,8,Canadian Grand Prix,Montréal,True,3,4,5,https://www.gpfans.com/nl/f1-nieuws/1008416/pirelli-haalt-een-compound-uit-roulatie-voor-formule-1-seizoen-2024/
+2023,9,Austrian Grand Prix,Spielberg,True,3,4,5,https://www.gpfans.com/nl/f1-nieuws/1008416/pirelli-haalt-een-compound-uit-roulatie-voor-formule-1-seizoen-2024/
+2023,10,British Grand Prix,Silverstone,True,1,2,3,https://www.gpfans.com/nl/f1-nieuws/1015671/pirelli-maakt-bandencompounds-voor-japan-china-en-miami-bekend/
+2023,11,Hungarian Grand Prix,Budapest,True,3,4,5,https://press.pirelli.com/tyre-news-and-nominations-for-hungary-and-belgium/
+2023,12,Belgian Grand Prix,Spa-Francorchamps,True,2,3,4,https://press.pirelli.com/tyre-news-and-nominations-for-hungary-and-belgium/
+2023,13,Dutch Grand Prix,Zandvoort,False,1,2,3,https://www.gpfans.com/nl/f1-nieuws/1015671/pirelli-maakt-bandencompounds-voor-japan-china-en-miami-bekend/
+2023,14,Italian Grand Prix,Monza,True,3,4,5,https://www.gpfans.com/nl/f1-nieuws/1008416/pirelli-haalt-een-compound-uit-roulatie-voor-formule-1-seizoen-2024/
+2023,15,Singapore Grand Prix,Marina Bay,True,3,4,5,https://press.pirelli.com/unchanged-nominations-for-singapore-japan-and-qatar--in-name-at-least/
+2023,16,Japanese Grand Prix,Suzuka,True,1,2,3,https://press.pirelli.com/unchanged-nominations-for-singapore-japan-and-qatar--in-name-at-least/
+2023,17,Qatar Grand Prix,Lusail,True,1,2,3,https://press.pirelli.com/unchanged-nominations-for-singapore-japan-and-qatar--in-name-at-least/
+2023,18,United States Grand Prix,Austin,True,2,3,4,https://www.f1technical.net/news/24217
+2023,19,Mexico City Grand Prix,Mexico City,True,3,4,5,https://www.f1technical.net/news/24217
+2023,20,São Paulo Grand Prix,São Paulo,True,2,3,4,https://www.f1technical.net/news/24217
+2023,21,Las Vegas Grand Prix,Las Vegas,True,3,4,5,https://www.gpfans.com/nl/f1-nieuws/1008416/pirelli-haalt-een-compound-uit-roulatie-voor-formule-1-seizoen-2024/
+2023,22,Abu Dhabi Grand Prix,Yas Island,True,3,4,5,https://www.gpfans.com/nl/f1-nieuws/1008416/pirelli-haalt-een-compound-uit-roulatie-voor-formule-1-seizoen-2024/
+2024,1,Bahrain Grand Prix,Sakhir,True,1,2,3,https://press.pirelli.com/pirelli-nominates-the-compounds-for-the-start-of-2024/
+2024,2,Saudi Arabian Grand Prix,Jeddah,True,2,3,4,https://press.pirelli.com/pirelli-nominates-the-compounds-for-the-start-of-2024/
+2024,3,Australian Grand Prix,Melbourne,True,3,4,5,https://press.pirelli.com/pirelli-nominates-the-compounds-for-the-start-of-2024/
+2024,4,Japanese Grand Prix,Suzuka,True,1,2,3,https://www.gpfans.com/nl/f1-nieuws/1015671/pirelli-maakt-bandencompounds-voor-japan-china-en-miami-bekend/
+2024,5,Chinese Grand Prix,Shanghai,True,2,3,4,https://www.gpfans.com/nl/f1-nieuws/1015671/pirelli-maakt-bandencompounds-voor-japan-china-en-miami-bekend/
+2024,6,Miami Grand Prix,Miami,True,2,3,4,https://www.gpfans.com/nl/f1-nieuws/1015671/pirelli-maakt-bandencompounds-voor-japan-china-en-miami-bekend/
+2024,7,Emilia Romagna Grand Prix,Imola,True,3,4,5,https://tyrepress.com/2024/04/pirelli-sticks-with-softest-f1-tyre-compound-trio-for-three-more-grands-prix
+2024,8,Monaco Grand Prix,Monaco,True,3,4,5,https://tyrepress.com/2024/04/pirelli-sticks-with-softest-f1-tyre-compound-trio-for-three-more-grands-prix
+2024,9,Canadian Grand Prix,Montréal,False,3,4,5,https://tyrepress.com/2024/04/pirelli-sticks-with-softest-f1-tyre-compound-trio-for-three-more-grands-prix
+2024,10,Spanish Grand Prix,Barcelona,True,1,2,3,https://f1technical.net/news/24701
+2024,11,Austrian Grand Prix,Spielberg,True,3,4,5,https://f1technical.net/news/24701
+2024,12,British Grand Prix,Silverstone,False,1,2,3,https://f1technical.net/news/24701
+2024,13,Hungarian Grand Prix,Budapest,True,3,4,5,https://press.pirelli.com/all-compounds-on-track-over-next-three-races/
+2024,14,Belgian Grand Prix,Spa-Francorchamps,True,2,3,4,https://press.pirelli.com/all-compounds-on-track-over-next-three-races/
+2024,15,Dutch Grand Prix,Zandvoort,True,1,2,3,https://press.pirelli.com/all-compounds-on-track-over-next-three-races/
+2024,16,Italian Grand Prix,Monza,True,3,4,5,https://www.tyrepress.com/2024/07/soft-september-pirelli-confirms-formula-1-compounds-for-monza-baku-and-singapore/
+2024,17,Azerbaijan Grand Prix,Baku,True,3,4,5,https://www.tyrepress.com/2024/07/soft-september-pirelli-confirms-formula-1-compounds-for-monza-baku-and-singapore/
+2024,18,Singapore Grand Prix,Marina Bay,True,3,4,5,https://www.tyrepress.com/2024/07/soft-september-pirelli-confirms-formula-1-compounds-for-monza-baku-and-singapore/
+2024,19,United States Grand Prix,Austin,True,2,3,4,https://press.pirelli.com/these-are-the-tyres-for-the-americas/
+2024,20,Mexico City Grand Prix,Mexico City,True,3,4,5,https://press.pirelli.com/these-are-the-tyres-for-the-americas/
+2024,21,São Paulo Grand Prix,São Paulo,False,3,4,5,https://press.pirelli.com/these-are-the-tyres-for-the-americas/
+2024,22,Las Vegas Grand Prix,Las Vegas,True,3,4,5,https://www.the-race.com/formula-1/f1-c6-softest-tyre-plans-2025-2026-pirelli/
+2024,23,Qatar Grand Prix,Lusail,True,1,2,3,https://www.f1technical.net/news/27628
+2024,24,Abu Dhabi Grand Prix,Yas Island,True,3,4,5,https://www.f1technical.net/news/27628
+2025,1,Australian Grand Prix,Melbourne,False,3,4,5,https://motorsportweek.com/?p=199909
+2025,2,Chinese Grand Prix,Shanghai,True,2,3,4,https://motorsportweek.com/?p=199909
+2025,3,Japanese Grand Prix,Suzuka,True,1,2,3,https://motorsportweek.com/?p=199909
+2025,4,Bahrain Grand Prix,Sakhir,True,1,2,3,https://motorsportweek.com/?p=199909
+2025,5,Saudi Arabian Grand Prix,Jeddah,True,3,4,5,https://motorsportweek.com/?p=199909
+2025,6,Miami Grand Prix,Miami,True,3,4,5,https://www.f1technical.net/news/26579
+2025,7,Emilia Romagna Grand Prix,Imola,True,4,5,6,https://www.f1technical.net/news/26579
+2025,8,Monaco Grand Prix,Monaco,True,4,5,6,https://www.race24.co.kr/en-us/articles/40449
+2025,9,Spanish Grand Prix,Barcelona,True,1,2,3,https://www.race24.co.kr/en-us/articles/40449
+2025,10,Canadian Grand Prix,Montréal,True,4,5,6,https://www.race24.co.kr/en-us/articles/40449
+2025,11,Austrian Grand Prix,Spielberg,True,3,4,5,https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2025-austrian-grand-prix.7zps1tcBvL2pq421HYW3kT
+2025,12,British Grand Prix,Silverstone,False,2,3,4,https://www.benwaterworth.com/post/pirelli-to-trial-radical-tyre-mix-at-belgian-grand-prix
+2025,13,Belgian Grand Prix,Spa-Francorchamps,False,1,3,4,https://www.f1technical.net/news/27628
+2025,14,Hungarian Grand Prix,Budapest,True,3,4,5,https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2025-hungarian-grand-prix.FZNZbRnpwYyLoRBrpOSwL
+2025,15,Dutch Grand Prix,Zandvoort,True,2,3,4,https://www.f1technical.net/news/27628
+2025,16,Italian Grand Prix,Monza,True,3,4,5,https://www.f1technical.net/news/27628
+2025,17,Azerbaijan Grand Prix,Baku,True,4,5,6,https://www.f1technical.net/news/27628
+2025,18,Singapore Grand Prix,Marina Bay,True,3,4,5,https://www.f1technical.net/news/27628
+2025,19,United States Grand Prix,Austin,True,1,3,4,https://www.f1technical.net/news/27628
+2025,20,Mexico City Grand Prix,Mexico City,True,2,4,5,https://www.the-race.com/formula-1/f1-c6-softest-tyre-plans-2025-2026-pirelli/
+2025,21,São Paulo Grand Prix,São Paulo,True,2,3,4,https://www.the-race.com/formula-1/f1-c6-softest-tyre-plans-2025-2026-pirelli/
+2025,22,Las Vegas Grand Prix,Las Vegas,True,3,4,5,https://www.f1technical.net/news/27628
+2025,23,Qatar Grand Prix,Lusail,True,1,2,3,https://www.f1technical.net/news/27628
+2025,24,Abu Dhabi Grand Prix,Yas Island,True,3,4,5,https://www.f1technical.net/news/27628
